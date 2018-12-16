@@ -16,6 +16,6 @@ Lancez l'application et passez à autre chose.
 Pour autoriser l'application à se connecter à votre compte Gmail vous devez d'abord effectuer les simples opérations suivantes:
 
 1. Autoriser les applications moins sécurisées à accéder à votre compte : [sur cette page](https://support.google.com/accounts/answer/6010255);
-2. Si vous avez autorisé l'authentification à 2 facteurs (recommandé) vous devez générer un mot de passe spécifique à l'application : [sur cette page](https://security.google.com/settings/security/apppasswords). Notez ce mot de passe quelque part : à chaque fois que vous lancerez l'application
+2. Si vous avez autorisé l'authentification à 2 facteurs (recommandé) vous devez générer un mot de passe spécifique à l'application : [sur cette page](https://security.google.com/settings/security/apppasswords). Notez ce mot de passe quelque part : à chaque fois que vous lancerez l'application il faudra renseigner ce mot de passe et non celui de votre compte principal.
 
 Quand vous lancez le programme, le mot de passe qui vous est demandé sera celui qui est soit votre mot de passe principal, soit le mot de passe spécifique.
